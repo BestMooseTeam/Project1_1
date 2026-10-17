@@ -1,0 +1,14 @@
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\bin\Debug\net10.0\Task7_ParallelUpdate.exe
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\bin\Debug\net10.0\Task7_ParallelUpdate.deps.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\bin\Debug\net10.0\Task7_ParallelUpdate.runtimeconfig.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\bin\Debug\net10.0\Task7_ParallelUpdate.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\bin\Debug\net10.0\Task7_ParallelUpdate.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.AssemblyInfoInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.AssemblyInfo.cs
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.csproj.CoreCompileInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\refint\Task7_ParallelUpdate.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\Task7_ParallelUpdate.genruntimeconfig.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task7_ParallelUpdate\obj\Debug\net10.0\ref\Task7_ParallelUpdate.dll

@@ -1,0 +1,14 @@
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\bin\Debug\net10.0\Task5_AsyncReport.exe
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\bin\Debug\net10.0\Task5_AsyncReport.deps.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\bin\Debug\net10.0\Task5_AsyncReport.runtimeconfig.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\bin\Debug\net10.0\Task5_AsyncReport.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\bin\Debug\net10.0\Task5_AsyncReport.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.AssemblyInfoInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.AssemblyInfo.cs
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.csproj.CoreCompileInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\refint\Task5_AsyncReport.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\Task5_AsyncReport.genruntimeconfig.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task5_AsyncReport\obj\Debug\net10.0\ref\Task5_AsyncReport.dll
