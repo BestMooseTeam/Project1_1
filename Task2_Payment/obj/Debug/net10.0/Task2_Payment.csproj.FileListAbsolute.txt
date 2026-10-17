@@ -1,0 +1,14 @@
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\bin\Debug\net10.0\Task2_Payment.exe
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\bin\Debug\net10.0\Task2_Payment.deps.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\bin\Debug\net10.0\Task2_Payment.runtimeconfig.json
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\bin\Debug\net10.0\Task2_Payment.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\bin\Debug\net10.0\Task2_Payment.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.AssemblyInfoInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.AssemblyInfo.cs
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.csproj.CoreCompileInputs.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\refint\Task2_Payment.dll
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.pdb
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\Task2_Payment.genruntimeconfig.cache
+C:\Users\mtyny\OneDrive\Desktop\Новая папка\Урок3\Task2_Payment\obj\Debug\net10.0\ref\Task2_Payment.dll
